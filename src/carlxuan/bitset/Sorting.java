@@ -8,9 +8,9 @@ import java.util.Set;
 public class Sorting {
 
 	public static void main(String[] args) {
-//		sort();
+		sort();
 //		checkDuplicate();
-		checkNotSet();
+//		checkNotSet();
 
 	}
 
